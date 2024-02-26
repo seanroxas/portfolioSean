@@ -54,7 +54,7 @@ function Navigation() {
                   className="font-real block py-2 px-3 text-white rounded md:bg-transparent md:p-0"
                   aria-current="page"
                 >
-                  About Me
+                  About
                 </a>
               </li>
               <li>
@@ -78,7 +78,7 @@ function Navigation() {
                   href="#Contact"
                   className="font-real block py-2 px-3 text-white rounded md:bg-transparent md:p-0"
                 >
-                  Contact Me
+                  Contact
                 </a>
               </li>
             </ul>

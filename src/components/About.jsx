@@ -7,7 +7,7 @@ function AboutMe() {
       <div className="bg-slate-900box-border w-full h-auto flex justify-center ">
         <section
           id="AboutMe"
-          className="bg-slate-900 mt-44 h-auto w-4/5 sm:w-4/6 sm:h-auto px-4 sm:px-6 lg:px-8 mb-20"
+          className="bg-slate-900 mt-16 sm:mt-44 h-auto w-full sm:w-4/6 sm:h-auto px-4 sm:px-6 lg:px-8 mb-20"
         >
           <div className="w-full flex items-center justify-center mb-12 ">
             <div className="">

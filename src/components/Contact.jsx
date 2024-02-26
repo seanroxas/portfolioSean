@@ -62,11 +62,11 @@ function Contact() {
         <div className="bg-slate-900 box-border w-full h-auto flex justify-center">
           <section
             id="Contact"
-            className="bg-slate-900 mt-6 sm:mt-6 h-auto w-4/5 sm:w-4/6 sm:h-auto px-4 sm:px-6 lg:px-8 mb-20"
+            className="bg-slate-900 mt-6 sm:mt-6 h-auto w-full sm:w-4/6 sm:h-auto px-4 sm:px-6 lg:px-8 mb-20"
           >
             <div className="w-full">
-              <p className="font-bold font-mono text-left text-orange-400 text-xl sm:text-3xl">
-                ../ContactMe
+              <p className="font-bold font-real text-left text-orange-400 text-xl mt-12 sm:mt-24 sm:text-3xl">
+                ../Contact
               </p>
               <div className="flex items-center justify-start space-x-4 mt-16">
                 <a
