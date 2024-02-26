@@ -11,7 +11,9 @@ function Projects() {
           ../Projects
         </p>
         <div className="w-full flex items-center justify-center mb-12 ">
-          <div className=""></div>
+          <div className="">
+            
+          </div>
         </div>
       </section>
     </div>
