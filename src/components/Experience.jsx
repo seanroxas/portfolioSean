@@ -26,7 +26,7 @@ function Experience() {
             <p className="font-bold font-real text-left text-orange-400 text-xl sm:text-3xl">
               ../Experience/Tools
             </p>
-            <div className="mt-12 grid grid-cols-4 col-auto gap-4">
+            <div className="mt-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 col-auto gap-4">
               <div className="border-solid border-2 border-white justify-center align-center">
                 <svg
                   className="mx-auto text-white"
