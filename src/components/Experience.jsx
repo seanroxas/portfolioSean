@@ -19,7 +19,7 @@ function Experience() {
                   Systems And Automation Intern
                 </p>
                 <p className="font-real ml-10 text-left font-real text-white text-sm sm:text-md">
-                  January 2023 - april 2023
+                  January 2023 - April 2023
                 </p>
               </div>
             </div>

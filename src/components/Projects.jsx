@@ -20,8 +20,8 @@ function Projects() {
                   </h5>
                 </a>
                 <p className="mb-3 font-real text-white">
-                  Developed a weather application with responsive UI where you
-                  can search for current weather condition in a city.
+                  A weather application with a responsive UI that allows you to
+                  search for the current weather conditions in any city.
                 </p>
                 <p className="mt-3 mb-3 font-real text-orange-400 font-bold">
                   ReactJS, TailwindCSS and OpenWeatherMap
@@ -55,9 +55,9 @@ function Projects() {
                   </h5>
                 </a>
                 <p className="mb-3 font-real text-white">
-                  Developed a simple to-do list with responsive UI and with
-                  functionalities such as add task, move task up and down,
-                  delete task.
+                  A simple to-do list with a responsive UI and functionalities
+                  such as adding tasks, moving tasks up and down, and deleting
+                  tasks..
                 </p>
                 <p className="mt-4 mb-10 font-real text-orange-400 font-bold">
                   ReactJS and TailwindCSS
@@ -89,8 +89,8 @@ function Projects() {
                   </h5>
                 </a>
                 <p className="mb-3 font-real text-white">
-                  Currently Developing a real-time chat application with user
-                  authentication and other chat application features.
+                  I am currently developing a real-time chat application with
+                  user authentication and other essential chat features.
                 </p>
                 <p className="mt-4 mb-10 font-real text-orange-400 font-bold">
                   MERN, Socket.io and TailwindCSS
@@ -115,8 +115,8 @@ function Projects() {
                   </h5>
                 </a>
                 <p className="mb-3 font-real text-white">
-                  Developed a user controlled list for video games where user
-                  can do CRUD in the list. it uses mongoDB for the database
+                  A user-controlled list for video games, allowing users to
+                  perform CRUD operations. It utilizes MongoDB for the database.
                 </p>
                 <p className="mt-4 mb-10 font-real text-orange-400 font-bold">
                   MERN and TailwindCSS
@@ -141,9 +141,9 @@ function Projects() {
                   </h5>
                 </a>
                 <p className="mb-3 font-real text-white">
-                  Developed a Seminar Attendance Website where teachers can see
-                  the status of the students attendance. and where students can
-                  login to change their attendance
+                  A Seminar Attendance Website that allows teachers to monitor
+                  student attendance status, while providing students with the
+                  ability to log in and update their attendance
                 </p>
                 <p className="mt-4 mb-10 font-real text-orange-400 font-bold">
                   SpringBoot, MySQL, Javascript and Java
@@ -168,9 +168,9 @@ function Projects() {
                   </h5>
                 </a>
                 <p className="mb-3 font-real text-white">
-                  Developed an Android application that enables administrators
-                  to visualize the users' routes in a day using Kotlin, Python,
-                  JavaScript, and Firebase.
+                  An Android application that enables administrators to
+                  visualize the users' routes taken in a day using Kotlin,
+                  Python, JavaScript, and Firebase.
                 </p>
                 <p className="mt-4 mb-10 font-real text-orange-400 font-bold">
                   Kotlin, Firebase, Python and JavaScript

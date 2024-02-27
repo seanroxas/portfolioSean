@@ -82,10 +82,10 @@ function AboutMe() {
 
           <p className="font-real text-left mt-4 text-white text-md sm:text-md ">
             I am a Full-Stack Developer from the Philippines, my passion lies in
-            crafting comprehensive websites and applications. Currently, I am
-            dedicated to honing my skills by creating projects in React, Node.js
-            and other frameworks/languages, driven by a desire to expand my
-            expertise in web development.
+            developing websites and applications. Currently, I am dedicated to
+            honing my skills by creating projects in React, Node.js and other
+            frameworks/languages, driven by a desire to expand my expertise in
+            web development.
           </p>
           <p className="font-real text-left mt-4 text-white textmd sm:text-md">
             I obtained my degree in Bachelor of Science in Information
