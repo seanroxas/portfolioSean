@@ -139,9 +139,22 @@ function Projects() {
           <a
             href="https://github.com/seanroxas"
             target="_blank"
-            className="justify-center h-auto w-2/6 items-center px-3 py-2 text-2xl font-medium text-white bg-slate-500 rounded-lg hover:bg-slate-700 text-center"
+            rel="noopener noreferrer"
+            className="flex items-center justify-center py-3 px-6 text-lg font-medium text-white bg-slate-500 rounded-lg hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-slate-500"
           >
-            GitHub Repository
+            <span className="mr-3">GitHub Repository</span>
+            <svg
+              className="text-white h-6 w-6"
+              viewBox="0 0 20 20"
+              fill="currentColor"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                fillRule="evenodd"
+                d="M10 0a10 10 0 0 0-3.16 19.49c.5.09.68-.22.68-.48l-.01-1.7c-2.78.6-3.37-1.34-3.37-1.34-.45-1.13-1.11-1.43-1.11-1.43-.91-.62.07-.61.07-.61 1.01.07 1.54 1.04 1.54 1.04.9 1.54 2.37 1.1 2.95.84.09-.65.35-1.1.64-1.35-2.24-.26-4.61-1.12-4.61-4.97 0-1.1.39-2 1.04-2.71-.1-.27-.45-1.28.1-2.66 0 0 .84-.27 2.75 1.03.8-.22 1.65-.33 2.5-.33.85 0 1.69.11 2.5.33 1.91-1.3 2.75-1.03 2.75-1.03.56 1.38.21 2.39.1 2.66.65.71 1.04 1.61 1.04 2.71 0 3.86-2.38 4.71-4.62 4.97.36.31.68.92.68 1.85l-.01 2.75c0 .27.18.58.69.48A10 10 0 0 0 10 0"
+                clipRule="evenodd"
+              />
+            </svg>
           </a>
         </div>
       </section>
