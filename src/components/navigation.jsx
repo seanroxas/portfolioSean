@@ -48,7 +48,7 @@ function Navigation() {
             id="navbar-default"
           >
             <ul className="font-medium flex flex-col p-4 md:p-0 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 bg-slate-900">
-              <li>
+              <li className="border-solid-2 border-b-2 sm:border-b-0">
                 <a
                   href="#AboutMe"
                   className="font-real block py-2 px-3 text-white rounded md:bg-transparent md:p-0"
@@ -57,7 +57,7 @@ function Navigation() {
                   About
                 </a>
               </li>
-              <li>
+              <li className="border-solid-2 border-b-2 sm:border-b-0">
                 <a
                   href="#Experience"
                   className="font-real block py-2 px-3 text-white rounded md:bg-transparent md:p-0"
@@ -65,7 +65,7 @@ function Navigation() {
                   Experience
                 </a>
               </li>
-              <li>
+              <li className="border-solid-2 border-b-2 sm:border-b-0">
                 <a
                   href="#Projects"
                   className="font-real block py-2 px-3 text-white rounded md:bg-transparent md:p-0"
@@ -73,7 +73,7 @@ function Navigation() {
                   Projects
                 </a>
               </li>
-              <li>
+              <li className="border-solid-2 border-b-2 sm:border-b-0">
                 <a
                   href="#Contact"
                   className="font-real block py-2 px-3 text-white rounded md:bg-transparent md:p-0"
