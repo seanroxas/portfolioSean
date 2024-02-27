@@ -40,12 +40,22 @@ function Contact() {
           message: "Message sent successfully!",
           color: "mt-6 text-white text-2xl w-auto h-10",
         });
+
+        // Clear success message after 5 seconds
+        setTimeout(() => {
+          setSubmitMessage(null);
+        }, 5000);
       } else {
         // Display error message
         setSubmitMessage({
           message: "Error submitting form. Please try again later.",
           color: "mt-6 text-white text-2xl w-auto h-10",
         });
+
+        // Clear error message after 5 seconds
+        setTimeout(() => {
+          setSubmitMessage(null);
+        }, 5000);
       }
     } catch (error) {
       console.error("Error submitting form:", error);
@@ -54,6 +64,11 @@ function Contact() {
         message: "Error submitting form. Please try again later.",
         color: "mt-6 text-white text-2xl w-auto h-10",
       });
+
+      // Clear error message after 5 seconds
+      setTimeout(() => {
+        setSubmitMessage(null);
+      }, 5000);
     }
   };
   return (
