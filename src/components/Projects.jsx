@@ -2,15 +2,15 @@ import React from "react";
 
 function Projects() {
   return (
-    <div className="bg-slate-900box-border w-full h-auto flex justify-center ">
+    <div className="bg-slate-900 box-border w-full h-auto flex justify-center ">
       <section
-        id="AboutMe"
-        className="bg-slate-900 mt-16 sm:mt-44 h-auto w-full sm:w-4/6 sm:h-auto px-4 sm:px-6 lg:px-8 "
+        id="Projects"
+        className="bg-slate-900 mt-16 sm:mt-34 h-auto w-full sm:w-4/6 sm:h-auto px-4 sm:px-6 lg:px-8 "
       >
         <p className="font-bold font-real text-left text-orange-400 text-xl sm:text-3xl">
           ../Projects
         </p>
-        <div className="w-full flex items-center justify-center mb-12">
+        <div className="w-full flex items-center justify-center ">
           <div className="p-8 mt-12 gap-8 gap-y-8 flex justify-center flex-wrap gap-4">
             <div className="max-w-sm bg-slate-600 font-real rounded-lg shadow">
               <div className="p-5">

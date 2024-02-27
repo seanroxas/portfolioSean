@@ -57,7 +57,7 @@ function AboutMe() {
                 </a>
 
                 <a
-                  href="https://drive.google.com/file/d/1nQs8bKmtVnq-gb1TRkvNI16LVjcRaJSi/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1qhe_QSSg71mwQ3T7PlL7MN8txk0jFshW/view?usp=sharing"
                   target="_blank"
                   className="text-3xl"
                 >
