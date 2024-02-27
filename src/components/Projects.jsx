@@ -133,6 +133,60 @@ function Projects() {
                 </div>
               </div>
             </div>
+            <div className="max-w-sm bg-slate-600 font-real rounded-lg shadow">
+              <div className="p-5">
+                <a href="#">
+                  <h5 className="mb-2 text-2xl font-real font-extrabold tracking-tight text-white">
+                    Seminar Attendance Wesbite
+                  </h5>
+                </a>
+                <p className="mb-3 font-real text-white">
+                  Developed a Seminar Attendance Website where teachers can see
+                  the status of the students attendance. and where students can
+                  login to change their attendance
+                </p>
+                <p className="mt-4 mb-10 font-real text-orange-400 font-bold">
+                  SpringBoot, MySQL, Javascript and Java
+                </p>
+
+                <div className="flex justify-center gap-4 mt-4 md:mt-6">
+                  <a
+                    href="https://github.com/seanroxas/attWeb"
+                    target="_blank"
+                    className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-slate-500 rounded-lg hover:bg-slate-700"
+                  >
+                    Source Code
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="max-w-sm bg-slate-600 font-real rounded-lg shadow">
+              <div className="p-5">
+                <a href="#">
+                  <h5 className="mb-2 text-2xl font-real font-extrabold tracking-tight text-white">
+                    LOKAL: Android Route Replay Application
+                  </h5>
+                </a>
+                <p className="mb-3 font-real text-white">
+                  Developed an Android application that enables administrators
+                  to visualize the users' routes in a day using Kotlin, Python,
+                  JavaScript, and Firebase.
+                </p>
+                <p className="mt-4 mb-10 font-real text-orange-400 font-bold">
+                  Kotlin, Firebase, Python and JavaScript
+                </p>
+
+                <div className="flex justify-center gap-4 mt-4 md:mt-6">
+                  <a
+                    href="https://drive.google.com/file/d/1hBDRt2J2URpMIqnxJ-KTxf6VdPTHAVeP/view?usp=sharing"
+                    target="_blank"
+                    className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-slate-500 rounded-lg hover:bg-slate-700"
+                  >
+                    Download APK
+                  </a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
         <div className="w-full flex items-center justify-center ">
