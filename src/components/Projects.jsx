@@ -21,7 +21,7 @@ function Projects() {
                 </a>
                 <p className="mb-3 font-real text-white">
                   A weather application with a responsive UI that allows you to
-                  search for the current weather conditions in any city.
+                  search for the current weather conditions in any city
                 </p>
                 <p className="mt-3 mb-3 font-real text-orange-400 font-bold">
                   ReactJS, TailwindCSS and OpenWeatherMap
@@ -57,7 +57,7 @@ function Projects() {
                 <p className="mb-3 font-real text-white">
                   A simple to-do list with a responsive UI and functionalities
                   such as adding tasks, moving tasks up and down, and deleting
-                  tasks..
+                  tasks
                 </p>
                 <p className="mt-4 mb-10 font-real text-orange-400 font-bold">
                   ReactJS and TailwindCSS
@@ -90,7 +90,7 @@ function Projects() {
                 </a>
                 <p className="mb-3 font-real text-white">
                   I am currently developing a real-time chat application with
-                  user authentication and other essential chat features.
+                  user authentication and other essential chat features
                 </p>
                 <p className="mt-4 mb-10 font-real text-orange-400 font-bold">
                   MERN, Socket.io and TailwindCSS
@@ -116,7 +116,7 @@ function Projects() {
                 </a>
                 <p className="mb-3 font-real text-white">
                   A user-controlled list for video games, allowing users to
-                  perform CRUD operations. It utilizes MongoDB for the database.
+                  perform CRUD operations. It utilizes MongoDB for the database
                 </p>
                 <p className="mt-4 mb-10 font-real text-orange-400 font-bold">
                   MERN and TailwindCSS
@@ -170,7 +170,7 @@ function Projects() {
                 <p className="mb-3 font-real text-white">
                   An Android application that enables administrators to
                   visualize the users' routes taken in a day using Kotlin,
-                  Python, JavaScript, and Firebase.
+                  Python, JavaScript, and Firebase
                 </p>
                 <p className="mt-4 mb-10 font-real text-orange-400 font-bold">
                   Kotlin, Firebase, Python and JavaScript
