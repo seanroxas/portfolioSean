@@ -14,11 +14,10 @@ function Projects() {
           <div className="p-8 mt-12 gap-8 gap-y-8 flex justify-center flex-wrap gap-4">
             <div className="max-w-sm bg-slate-600 font-real rounded-lg shadow">
               <div className="p-5">
-                <a href="#">
-                  <h5 className="mb-2 text-2xl font-real font-extrabold tracking-tight text-white">
-                    City Weather Application
-                  </h5>
-                </a>
+                <h5 className="mb-2 text-2xl font-real font-extrabold tracking-tight text-white">
+                  City Weather Application
+                </h5>
+
                 <p className="mb-3 font-real text-white">
                   A weather application with a responsive UI that allows you to
                   search for the current weather conditions in any city
@@ -49,11 +48,9 @@ function Projects() {
             </div>
             <div className="max-w-sm bg-slate-600 font-real rounded-lg shadow">
               <div className="p-5">
-                <a href="#">
-                  <h5 className="mb-2 text-2xl font-real font-extrabold tracking-tight text-white">
-                    To-Do List
-                  </h5>
-                </a>
+                <h5 className="mb-2 text-2xl font-real font-extrabold tracking-tight text-white">
+                  To-Do List
+                </h5>
                 <p className="mb-3 font-real text-white">
                   A simple to-do list with a responsive UI and functionalities
                   such as adding tasks, moving tasks up and down, and deleting
@@ -83,11 +80,9 @@ function Projects() {
             </div>
             <div className="max-w-sm bg-slate-600 font-real rounded-lg shadow">
               <div className="p-5">
-                <a href="#">
-                  <h5 className="mb-2 text-2xl font-real font-extrabold tracking-tight text-white">
-                    Chat Application // WIP
-                  </h5>
-                </a>
+                <h5 className="mb-2 text-2xl font-real font-extrabold tracking-tight text-white">
+                  Chat Application // WIP
+                </h5>
                 <p className="mb-3 font-real text-white">
                   I am currently developing a real-time chat application with
                   user authentication and other essential chat features
@@ -109,11 +104,10 @@ function Projects() {
             </div>
             <div className="max-w-sm bg-slate-600 font-real rounded-lg shadow">
               <div className="p-5">
-                <a href="#">
-                  <h5 className="mb-2 text-2xl font-real font-extrabold tracking-tight text-white">
-                    Video Game List
-                  </h5>
-                </a>
+                <h5 className="mb-2 text-2xl font-real font-extrabold tracking-tight text-white">
+                  Video Game List
+                </h5>
+
                 <p className="mb-3 font-real text-white">
                   A user-controlled list for video games, allowing users to
                   perform CRUD operations. It utilizes MongoDB for the database
@@ -135,11 +129,10 @@ function Projects() {
             </div>
             <div className="max-w-sm bg-slate-600 font-real rounded-lg shadow">
               <div className="p-5">
-                <a href="#">
-                  <h5 className="mb-2 text-2xl font-real font-extrabold tracking-tight text-white">
-                    Seminar Attendance Wesbite
-                  </h5>
-                </a>
+                <h5 className="mb-2 text-2xl font-real font-extrabold tracking-tight text-white">
+                  Seminar Attendance Wesbite
+                </h5>
+
                 <p className="mb-3 font-real text-white">
                   A Seminar Attendance Website that allows teachers to monitor
                   student attendance status, while providing students with the
@@ -162,11 +155,10 @@ function Projects() {
             </div>
             <div className="max-w-sm bg-slate-600 font-real rounded-lg shadow">
               <div className="p-5">
-                <a href="#">
-                  <h5 className="mb-2 text-2xl font-real font-extrabold tracking-tight text-white">
-                    LOKAL: Android Route Replay Application
-                  </h5>
-                </a>
+                <h5 className="mb-2 text-2xl font-real font-extrabold tracking-tight text-white">
+                  LOKAL: Android Route Replay Application
+                </h5>
+
                 <p className="mb-3 font-real text-white">
                   An Android application that enables administrators to
                   visualize the users' routes taken in a day using Kotlin,
